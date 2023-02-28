@@ -1,0 +1,2 @@
+Welcome to MT DevOps
+Day1 - Git Basics
